@@ -2,3 +2,4 @@
 
 ## Tech stack
 <img src="https://img.shields.io/badge/React-black?logo=react"/>
+<img src="https://img.shields.io/badge/Redux-black?logo=redux"/>
