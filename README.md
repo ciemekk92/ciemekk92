@@ -48,5 +48,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <hr/>
 
 #### Find me around the internet:
+<div>
 <a href="mailto:przemyslaw.reducha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/przemys%C5%82aw-reducha-1b8127125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+</div>
