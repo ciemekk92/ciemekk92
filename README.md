@@ -47,6 +47,21 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 </div>
 <hr/>
 
+#### Completed projects
+<strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
+
+<div>
+<a href="https://github.com/ciemekk92/listify">Repo</a> | <a href="https://listify-react.firebaseapp.com/">Demo</a>
+</div><br/>
+
+<strong>PokeHUB</strong> - Single page application, that allows the user to find information about any Pokemon and display it in compact, responsive layout.
+<div>
+<a href="https://github.com/ciemekk92/pokehub_react">Repo</a> | <a href="https://pokehubreact.firebaseapp.com/">Demo</a>
+</div>
+
+
+<hr/>
+
 #### Find me around the internet:
 <div>
 <a href="mailto:przemyslaw.reducha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
