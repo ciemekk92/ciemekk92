@@ -6,6 +6,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
     <img alt="Styled-components" src="https://img.shields.io/badge/StyledComponents-pink?logo=Styled-Components&logoColor=white&style=flat"/>
+    <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
 </div>
 <br/>
 <div>
@@ -40,7 +41,6 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 
 #### Currently learning
 <div>
-<img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
 <img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat"/>
 <img alt="Express" src="https://img.shields.io/badge/Express-gray?style=flat"/>
