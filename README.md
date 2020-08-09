@@ -48,7 +48,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <hr/>
 
 #### Completed projects
-<strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
+<strong>Listify - DURING REWORK</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
 
 <div>
 <a href="https://github.com/ciemekk92/listify">Repo</a> | <a href="https://listify-react.firebaseapp.com/">Demo</a>
