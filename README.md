@@ -48,8 +48,15 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 </div>
 <hr/>
 
+#### Projects under development
+<strong>ArcadeStock</strong> - Web trading application under development of Arcade-IT organisation, where the user can monitor, trade, organise etc. stocks.
+
+<div>
+<a href="https://github.com/Arcade-IT/Gielda_Front_ReactTS">Repo</a>
+</div><br/>
+
 #### Completed projects
-<strong>Listify - DURING REWORK</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
+<strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
 
 <div>
 <a href="https://github.com/ciemekk92/listify">Repo</a> | <a href="https://listify-react.firebaseapp.com/">Demo</a>
