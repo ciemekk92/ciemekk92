@@ -53,7 +53,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 
 <div>
 <a href="https://github.com/Arcade-IT/Gielda_Front_ReactTS">Repo</a>
-</div><br/>
+</div>
 
 #### Completed projects
 <strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
