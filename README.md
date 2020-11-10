@@ -21,6 +21,12 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 </div>
 <br/>
 <div>
+    <img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat"/>
+    <img alt="Express" src="https://img.shields.io/badge/Express-gray?style=flat"/>
+</div>
+<br/>
+<div>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white&style=flat"/>
 </div>
 <br/>
@@ -42,13 +48,15 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 
 #### Currently learning
 <div>
-<img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat"/>
-<img alt="Express" src="https://img.shields.io/badge/Express-gray?style=flat"/>
+<img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat"/>
+
 </div>
 <hr/>
 
 #### Projects under development
+<strong>Customer Care Service</strong> - commercial project, consisting of React frontend and Node.js/Express/MongoDB backend, designed to help wellness company's customer care employees with their daily work and expand their knowledge about their company's product.
+
 <strong>ArcadeStock</strong> - Web trading application under development of Arcade-IT organisation, where the user can monitor, trade, organise etc. stocks.
 
 <div>
