@@ -1,7 +1,7 @@
 ## Hello!
 My name is Przemysław Reducha, nice to have you there! 👋 I'm currently studying Computer Science and learning web technologies by myself. I absolutely love React and everything about it! 🙂  
 
-#### Tech stack
+### Tech stack
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
@@ -46,15 +46,15 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 </div>
 <hr/>
 
-#### Currently learning
+### Currently learning
 <div>
-<img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=flat"/>
+<img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white&style=flat"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat"/>
 
 </div>
 <hr/>
 
-#### Projects under development
+### Projects under development
 <strong>Customer Care Service</strong> - commercial project, consisting of React frontend and Node.js/Express/MongoDB backend, designed to help wellness company's customer care employees with their daily work and expand their knowledge about their company's product.
 
 <strong>ArcadeStock</strong> - Web trading application under development of Arcade-IT organisation, where the user can monitor, trade, organise etc. stocks.
@@ -63,7 +63,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <a href="https://github.com/Arcade-IT/Gielda_Front_ReactTS">Repo</a>
 </div>
 
-#### Completed projects
+### Completed projects
 <strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
 
 <div>
@@ -78,7 +78,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 
 <hr/>
 
-#### Find me around the internet:
+### Find me around the internet:
 <div>
 <a href="mailto:przemyslaw.reducha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/przemys%C5%82aw-reducha-1b8127125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
