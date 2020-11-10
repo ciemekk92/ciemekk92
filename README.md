@@ -19,7 +19,6 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
     <img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&style=flat"/>
     <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
 </div>
-<br/>
 <div>
     <img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat"/>
