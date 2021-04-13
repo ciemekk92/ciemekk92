@@ -56,15 +56,16 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <hr/>
 
 ### Projects under development
-<strong>Customer Care Service</strong> - commercial project, consisting of React frontend and Node.js/Express/MongoDB backend, designed to help wellness company's customer care employees with their daily work and expand their knowledge about their company's product.
 
-<strong>ArcadeStock</strong> - Web trading application under development of Arcade-IT organisation, where the user can monitor, trade, organise etc. stocks.
+
+
+### Completed projects
+<strong>Customer Care Service</strong> - commercial project, consisting of React frontend and Node.js/Express/MongoDB backend, designed to help wellness company's customer care employees with their daily work and expand their knowledge about their company's product.
 
 <div>
 <a href="https://github.com/Arcade-IT/Gielda_Front_ReactTS">Repo</a>
 </div>
 
-### Completed projects
 <strong>Listify</strong> - Web application that allows user to create and manage multiple to-do lists online. Each list is stored in database and can be accessed from any device.
 
 <div>
