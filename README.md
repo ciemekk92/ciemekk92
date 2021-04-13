@@ -7,6 +7,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
     <img alt="Styled-components" src="https://img.shields.io/badge/StyledComponents-pink?logo=Styled-Components&logoColor=white&style=flat"/>
     <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
+    <img alt='Less' src="https://img.shields.io/badge/Less-blue?logo=less&logoColor=white&style=flat"/>
 </div>
 <br/>
 <div>
@@ -17,6 +18,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <div>
     <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat"/>
     <img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&style=flat"/>
+    <img alt="MobX" src="https://img.shields.io/badge/Mobx-black?logo=mobx&style=flat"/>
     <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
 </div>
 <div>
