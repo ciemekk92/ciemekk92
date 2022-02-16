@@ -13,7 +13,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat"/>
-    <img alt="Java 8" src="https://img.shields.io/badge/Java 8-red?logo=java&style=flat"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&style=flat"/>
 </div>
 <div>
     <img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=white&style=flat"/>
@@ -22,6 +22,8 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
     <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
 </div>
 <div>
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white&style=flat"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat"/>
     <img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat"/>
     <img alt="Express" src="https://img.shields.io/badge/Express-gray?style=flat"/>
@@ -44,14 +46,6 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
     <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-black?logo=webstorm&logoColor=white&style=flat"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white&style=flat"/>
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop CS-darkblue?logo=Adobe-Photoshop&logoColor=white&style=flat"/>
-</div>
-<hr/>
-
-### Currently learning
-<div>
-<img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white&style=flat"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat"/>
-
 </div>
 <hr/>
 
