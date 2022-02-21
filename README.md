@@ -12,7 +12,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <br/>
 <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=flat"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&style=flat"/>
 </div>
 <div>
