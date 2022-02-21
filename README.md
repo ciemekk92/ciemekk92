@@ -36,7 +36,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <div>
     <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=flat"/>
-    <img alt="Maven" src="https://img.shields.io/badge/Maven-orange?logo=maven&logoColor=white&style=flat"/>
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-orange?logo=apache-maven&logoColor=white&style=flat"/>
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-purple?logo=eslint&logoColor=white&style=flat"/>
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-24292e?logo=prettier&logoColor=white&style=flat"/>
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat"/>
