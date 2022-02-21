@@ -45,6 +45,7 @@ My name is Przemysław Reducha, nice to have you there! 👋 I'm currently study
 <div>
     <img alt="VSCode" src="https://img.shields.io/badge/VS Code-blue?logo=Visual-Studio-Code&logoColor=white&style=flat"/>
     <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-black?logo=webstorm&logoColor=white&style=flat"/>
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-black?logo=intellij-idea&logoColor=white&style=flat"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white&style=flat"/>
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop CS-darkblue?logo=Adobe-Photoshop&logoColor=white&style=flat"/>
 </div>
