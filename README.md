@@ -1,5 +1,5 @@
 ## Hello!
-My name is Przemysław Reducha, nice to have you there! 👋 I'm currently studying Computer Science and learning web technologies by myself. I absolutely love React and everything about it! 🙂  
+My name is Przemysław Reducha, nice to have you there! 👋
 
 ### Tech stack
 <div>
